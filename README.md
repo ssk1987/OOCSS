@@ -13,8 +13,9 @@
  
 # 更新记录
 
-- 修改原作者个别代码错误！2016.06.13
-  .h16{height:14px;} --> .h14{height:14px;}
+## 2016.06.13 修改原作者个别代码错误！
+  - .h16{height:14px;} --> .h14{height:14px;}
+  - .lh16{line-height:14px;} --> .lh14{line-height:14px;}
  
  
  
