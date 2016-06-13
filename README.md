@@ -6,7 +6,17 @@
 
 # 提示
   建议将ssk.lib.css 部署在您的CSS文件下方，如下所示：
-  
-    <link rel="stylesheet" type="text/css" href="a.css">
+ 
+     <link rel="stylesheet" type="text/css" href="a.css">
     <link rel="stylesheet" type="text/css" href="b.css">
     <link rel="stylesheet" type="text/css" href="ssk.lib.css">
+ 
+# 更新记录
+
+- 修改原作者个别代码错误！2016.06.13
+  .h16{height:14px;} --> .h14{height:14px;}
+ 
+ 
+ 
+  
+
